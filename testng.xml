@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="footer-page">
+    <test name="validate-footer-links">
+        <classes>
+            <class name="com.modelbasedseleniumtesting.tests.ModelTest" />
+        </classes>
+    </test>
+</suite>
